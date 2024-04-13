@@ -1,0 +1,3 @@
+﻿  WindowsProject1.cpp
+C:\Users\Данил\Desktop\Project\WindowsProject1\WindowsProject1\WindowsProject1.cpp(237,104): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  WindowsProject1.vcxproj -> C:\Users\Данил\Desktop\Project\WindowsProject1\x64\Debug\WindowsProject1.exe
